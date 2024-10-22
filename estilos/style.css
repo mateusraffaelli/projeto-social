@@ -1,8 +1,5 @@
 @charset "UTF-8";
 @media (max-width: 500px){
-    section#redes-sociais > a > img{
-        width: 13%;
-    }
 
     main> section#telefone{      
         background-size: 250px 500px;  
